@@ -1,1 +1,1 @@
-k8s diagram
+![k8s cluster](k8s%20cluster.jpg)
